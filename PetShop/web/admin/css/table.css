@@ -1,0 +1,13 @@
+table, tr, td{
+    border: 1px solid lightgrey;
+    text-align: center;
+    background: white;
+
+}
+table tr:first-child{
+    font-weight: bold;
+}
+table img {
+    width: 50%;
+    margin: 10px;
+}
